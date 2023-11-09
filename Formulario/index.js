@@ -1,3 +1,4 @@
+// Hola
 document
   .getElementById("registro-form")
   .addEventListener("submit", function (e) {
