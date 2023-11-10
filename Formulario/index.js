@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Hola Mundo - Hello World 2
-=======
-// Hola Mundo - Hello World 3
->>>>>>> b99da65ad2262b65637fff3980a13c58b4bb88fe
+// Hola Mundo - Hello World 4
 document
   .getElementById("registro-form")
   .addEventListener("submit", function (e) {
