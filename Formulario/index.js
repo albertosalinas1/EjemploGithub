@@ -1,4 +1,4 @@
-// Hola Mundo
+// Hola Mundo - Hello World
 document
   .getElementById("registro-form")
   .addEventListener("submit", function (e) {
