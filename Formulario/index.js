@@ -1,4 +1,4 @@
-// Hola Mundo - Hello World 5
+// Hola Mundo - Hello World 100
 document
   .getElementById("registro-form")
   .addEventListener("submit", function (e) {
